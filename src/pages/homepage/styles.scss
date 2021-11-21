@@ -1,0 +1,14 @@
+.homepage-container {
+  display: flex;
+  width: 100%;
+  flex-direction: row;
+
+  &__navigation {
+    
+  }
+
+  &__main {
+    background-color: aquamarine;
+    flex: 1;
+  }
+}
